@@ -1,6 +1,6 @@
-=====================================
+
 =============PROJET JEFF=============
-=====================================
+
 
 Le but du projet jeff est de me faire une maison connectée "from scratch".
 
