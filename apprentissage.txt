@@ -1,0 +1,3 @@
+ici je liste toutes les ressources que j'ai utilisé pour ce projet, classée selon l'étape où je les a utilisées 
+Etape 1 :
+-DEEP RESIDUAL LEARNING FOR SMALL-FOOTPRINT KEYWORD SPOTTING
